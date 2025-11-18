@@ -1,0 +1,1 @@
+Add your portfolio images here. Example filenames referenced in the app:\n- logo-1.jpg\n- logo-2.jpg\n- banner-1.jpg\n- banner-2.jpg\n- mockup-1.jpg\n- brochure-1.jpg\n
